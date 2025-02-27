@@ -57,6 +57,8 @@ print("GPU Available:", torch.cuda.is_available())
 
 # 4. Run code in copy_to_colab in the Google Colab environment
 
+# 5. Run code in download.py in the Google Colab environment to download what you made in .zip
+
 
 
 
